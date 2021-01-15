@@ -1,6 +1,6 @@
 # eslint-plugin-svelte3
 
-An ESLint plugin for Svelte v3 components.
+A fork of An ESLint plugin for Svelte v3 components.
 
 ## Features
 
